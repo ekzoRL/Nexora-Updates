@@ -1,11 +1,11 @@
 {
-  "version": "1.0.1",
-  "notes": "Nexora 1.0.1",
-  "pub_date": "2026-09-20T10:04:49.305Z",
+  "version": "1.0.0",
+  "notes": "Nexora 1.0.0",
+  "pub_date": "2026-09-20T10:10:41.040Z",
   "platforms": {
     "windows-x86_64": {
-      "url": "https://github.com/ekzoRL/Nexora-Updates/releases/download/v1.0.1/Nexora_1.0.1_x64-setup.exe",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTVm15OXBtRzh3T0pvVWhCUVhUWmJ2SnQzaFhmZnd5TklSS0wwWllDRmJXUFYvN3NUSWkyS3NYZnl6L1puM1BPWGo0MmE0Q0FOeUJ5UlpZYSt4bVgydGo5MllFVkhNc1FnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5ODk4NTgwCWZpbGU6TmV4b3JhXzEuMC4xX3g2NC1zZXR1cC5leGUKUTRldDdYSU1PeVRYTllPeGtIQlNNSkNtYitwbHdUa1pMT3h6RUVndm5xTnFWVUVFd3BueDJyakp2UHVpNjRVRXhWZjNvNG5NdWQ5UGlpRUE5c0x4Qmc9PQo="
+      "url": "https://github.com/ekzoRL/Nexora-Updates/releases/download/v1.0.0/Nexora_1.0.0_x64-setup.exe",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTVm15OXBtRzh3T0s2UVVKSHIreWRPRHhFOXJBTkY2a2hNZFNCOXJwTzNlTU5pMlFndVdhS1A2WUJESGd6MlZPV3VqQ1lHVGxVdFZVUXZWYVBBZkthdXd1dytMeXA3K1FZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5ODk4OTEyCWZpbGU6TmV4b3JhXzEuMC4wX3g2NC1zZXR1cC5leGUKNTdSTG1wTjBYNGVkWDVOc3ppL2pvSkI2K1ZjL09NcVB6THFDVXVMZUk5QXhUQmtGRGtGWnozUkZpa293b2JrTit3RTBCaHB6WHBKeW5odWlzbTR0Q1E9PQo="
     }
   }
 }
